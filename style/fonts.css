@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Monrserrat-Regular';
+    src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url('../fonts/Montserrat/Montserrat-Black.ttf');
+    
+}
+
+@font-face {
+    font-family: 'Montserrat-BoldItalic';
+    src: url('../fonts/Montserrat/Montserrat-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('../fonts/Montserrat/Montserrat-SemiBold.ttf');
+}
+
+
+
+@font-face {
+    font-family: 'FontAwesome-brands';
+    src: url('../fonts/fontawesome/fa-brands-400.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome-doutone';
+    src: url('../fonts/fontawesome/fa-duotone-900.woff2');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FontAwesome-light';
+    src: url('../fonts/fontawesome/fa-light-300.woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src:url('../fonts/fontawesome/fa-regular-400.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome-solid';
+    src: url('../fonts/fontawesome/fa-solid-900.woff2');
+    font-weight: 900;
+}
+ 
+.fad{
+    font-family: 'FontAwesome-doutone';
+    font-style: normal;
+    font-weight: 900;
+}
+
+.fab {
+    font-family: 'FontAwesome-brands';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fa ,
+.far,
+.fas,
+.fal {
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
